@@ -1,0 +1,19 @@
+﻿@model List<Client>
+
+<h1>Clinets are:</h1>
+
+<h4>
+    <strong>#Clients </strong>@Model.Count
+</h4>
+
+<b>
+    @foreach(var c in Model)
+    {
+        <li>
+            <a asp-controller="Client" asp-action="Details" asp-route-id="@c.Id">
+                @c.Name
+            </a>
+        </li>
+    }
+</b>
+

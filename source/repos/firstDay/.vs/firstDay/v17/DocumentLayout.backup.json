@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\models\\seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\models\\seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3C1A8D-67E8-4329-87B0-EDE07CD97F67}|ClinicDM\\ClinicDM.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdm\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC3C1A8D-67E8-4329-87B0-EDE07CD97F67}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|c:\\users\\yalqh\\source\\repos\\firstday\\clinicdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D771775-CCDC-448F-BD54-899401733860}|ClinicDemo\\ClinicDemo.csproj|solutionrelative:clinicdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Models\\Seeding.cs",
+              "RelativeDocumentMoniker": "ClinicDemo\\Models\\Seeding.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Models\\Seeding.cs",
+              "RelativeToolTip": "ClinicDemo\\Models\\Seeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:14:42.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ClinicDemo\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Models\\Client.cs",
+              "RelativeToolTip": "ClinicDemo\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:12:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDM\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDM\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T20:10:52.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Client\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClinicDemo\\Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Client\\Details.cshtml",
+              "RelativeToolTip": "ClinicDemo\\Views\\Client\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T20:09:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicDemo\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "ClinicDemo\\Views\\Client\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T20:09:17.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Home\\Info.cshtml",
+              "RelativeDocumentMoniker": "ClinicDemo\\Views\\Home\\Info.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Views\\Home\\Info.cshtml",
+              "RelativeToolTip": "ClinicDemo\\Views\\Home\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T20:07:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:06:44.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClinicDemo\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\source\\repos\\firstDay\\ClinicDemo\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClinicDemo\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:06:37.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
